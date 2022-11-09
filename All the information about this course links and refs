@@ -3,3 +3,12 @@ IT is a youtube video playlist
 
 Name: Springboot quick start
 Link: https://www.youtube.com/watch?v=xkDBaldNki4&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x&index=15
+
+
+VIM info when commiting how to save your changes in the VIM app
+
+To write a git commit, start by typing git commit on your Terminal or Command Prompt which brings up a Vim interface for entering the commit message.
+Type the subject of your commit on the first line. ...
+Write a detailed description of what happened in the committed change. ...
+Press Esc and then type :wq to save and exit.
+Press Esc and then type :wq! to exit without saving
